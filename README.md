@@ -34,7 +34,7 @@ To get started with UG Helper:
 1. Clone this repository to your local machine:
 
     ```
-    [git clone https://github.com/AbdElrahmanSaaad/UG-Helper-.git](https://github.com/AbdElrahmanSaaad/UG-Helper-.git)
+    https://github.com/AbdElrahmanSaaad/UG-Helper-.git
     ```
 
 2. Change directory to the repository:
